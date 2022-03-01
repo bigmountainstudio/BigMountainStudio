@@ -26,4 +26,6 @@ Why not?
 
 Just go to [BigMountainStudio.com](https://www.bigmountainstudio.com/free-swiftui-book) to download it.
 
+![Free Book](https://d31ezp3r8jwmks.cloudfront.net/s5teqt4qeackzvcy631vcog0a8fq)
+
 It will become your favorite development partner.💚
