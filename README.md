@@ -22,10 +22,10 @@ So I created picture books like this free SwiftUI picture book:
 
 
 # Do you want a free copy?
-Why not?
+Why not? 😃
 
 Just go to [BigMountainStudio.com](https://www.bigmountainstudio.com/free-swiftui-book) to download it.
 
-![Free Book](https://d31ezp3r8jwmks.cloudfront.net/s5teqt4qeackzvcy631vcog0a8fq)
+![Free Book](https://github.com/bigmountainstudio/BigMountainStudio/assets/24855856/a87d6571-ec08-47f0-a6e0-0c0fcb8d4c81)
 
 It will become your favorite development partner.💚
