@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/24855856/125372489-7842fc00-e340-11eb-9281-37b1a8b7aeaf.png)
 # Hi, I'm Mark Moeykens
-I created Big Mountain Studio when I started my YouTube channel and started published programming videos.
+I created Big Mountain Studio when I started my YouTube channel and started publishing programming videos.
 
 Now I create **picture books**.
 
@@ -27,7 +27,7 @@ So I created picture books like this free SwiftUI picture book:
 *Phenomenal work!*
 **- Brian Walton**
 
-# Join Over 20,000 Other Developers
+# Join Over 27,000 Other Developers
 ![brands trust bigmountainstudio](https://github.com/bigmountainstudio/BigMountainStudio/assets/24855856/a19fde3b-13bf-42e4-904d-110e104b5de7)
 
 # Get a free copy!
